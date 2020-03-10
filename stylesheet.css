@@ -1,0 +1,196 @@
+
+.container{
+background-color: black;
+margin-left: 5%;
+margin-right: 5%;
+
+}
+
+
+header{
+text-align: center;
+}
+
+
+.container h1{
+color:#ffffff ;
+font-family: cursive;
+}
+
+nav{
+border-style:hidden;
+border-color: black;
+color: black;
+margin-top: 50px;
+
+}
+
+nav li{
+display:inline;
+}
+
+
+
+nav a{
+font-weight: bold;
+color: #FFFFFF;
+font-family:inherit;
+padding: 50px;
+}
+
+
+.itembox{
+text-align: center;
+margin-top: 80px;
+}
+
+
+.info h2{
+text-align: center;
+text-decoration: underline;
+font-size: 30px;
+color: #ffffff;
+margin-top: 50px;
+}
+
+
+.text1{
+text-align: center;
+padding-bottom: 10px;
+font-size: 25px;
+color: #ffffff;
+margin-top: 50px;
+font-weight: bold;
+font-family:inherit;
+}
+
+.button1{
+text-align: center;
+font-weight: bold;
+font-size: 30px;
+color: #FFFFFF;
+margin-bottom: 150px;
+padding: 15px;
+}
+
+
+.info2 h2{
+  text-align: center;
+  text-decoration: underline;
+  font-size: 30px;
+  color: #ffffff;
+  margin-top: 50px;
+  font-weight: bold;
+}
+
+
+.itembox2{
+text-align: center;
+margin-top: 120px;
+
+}
+
+
+.text2{
+text-align: center;
+padding-bottom: 10px;
+font-size: 25px;
+color: #ffffff;
+margin-top: 50px;
+font-weight: bold;
+font-family:inherit;
+}
+
+.button2{
+text-align: center;
+font-weight: bold;
+font-size: 30px;
+color: #FFFFFF;
+margin-bottom: 150px;
+padding: 15px;
+}
+
+
+
+
+
+.dreams{
+text-align: center;
+margin-top: 120px;
+
+}
+
+
+.dreams h2{
+text-decoration: underline;
+font-style: normal;
+font-weight: bold;
+font-size: 30px;
+margin-top: 45px;
+color:#ffffff;
+}
+
+.text3{
+
+text-align: center;
+padding-bottom: 10px;
+font-size: 25px;
+color: #ffffff;
+margin-top: 50px;
+font-weight: bold;
+font-family:inherit;
+
+
+
+
+}
+
+body{
+background:linear-gradient(-81deg,#7c6cef,#9b494b,#733e9a,#1f309b);
+
+}
+
+
+
+button{
+background-color: #000000;
+border-radius: 10px;
+display: inline-flex;
+color: #F2F2F2;
+margin-top: 20px;
+}
+
+
+
+.end{
+margin-top: 120px;
+
+}
+
+
+
+
+.contact h1{
+
+color:#ffffff;
+font-weight: bold;
+font-size: 30px;
+font-family:monospace;
+margin-top: 10px;
+}
+
+
+.contact{
+margin-top: 160px ;
+
+}
+
+
+footer{
+font-size: 20px;
+color: #ffffff;
+font-family: inherit;
+font-weight: bold;
+text-align: center;
+margin-top: 120px;
+}
