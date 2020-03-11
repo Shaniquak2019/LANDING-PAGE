@@ -2,5 +2,5 @@
 
 IMPORTANT!!! 
 
-I am only responsible for the landing page on this project!
+I am only responsible for creating the landing page on this project!
 
